@@ -11,7 +11,9 @@ More information here: <https://arxiv.org/pdf/2410.13301>
 ### Download Reports
 
 - [IETF 121 PDF](https://jaime.win/ietf-ai-report/pdf/ietf121-compiled-report.pdf)
+- [IETF 122 PDF](https://jaime.win/ietf-ai-report/pdf/ietf122-compiled-report.pdf)
 
 ### Source Files
 
 - [IETF 121 Tex](https://jaime.win/ietf-ai-report/tex/ietf121-compiled-report.tex)
+- [IETF 122 Tex](https://jaime.win/ietf-ai-report/tex/ietf122-compiled-report.tex)
